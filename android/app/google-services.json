@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888650618225",
+    "project_id": "dino-diary-web",
+    "storage_bucket": "dino-diary-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888650618225:android:84c0a16a5b96869c8112d0",
+        "android_client_info": {
+          "package_name": "com.example.dino_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888650618225-ui96p13klqb6216m2kjaq7rb2rf49tne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxblTufp0pEDk0Ptd-tKUwFuz4UWu_ols"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888650618225-ui96p13klqb6216m2kjaq7rb2rf49tne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
